@@ -1,6 +1,6 @@
 <?php
 /**
- * php_examples_3 by Jason Cross for ICS-325 Spring 2016
+ * php_examples_5 by Jason Cross for ICS-325 Spring 2016
  * Version 1
  * 1/28/2016
  *
