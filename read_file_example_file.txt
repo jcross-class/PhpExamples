@@ -1,0 +1,11 @@
+petname=Snuggles,ownername=Smith,pettype=dog,color=red
+petname=Tiger,ownername=Johnson,pettype=cat,color=yellow
+petname=Boots,ownername=Anderson,pettype=cat,color=black
+petname=Teddy,ownername=Olson,pettype=dog,color=brown
+petname=Misty,ownername=Anderson,pettype=cat,color=grey
+petname=Spot,ownername=Scott,pettype=dog,color=white
+petname=Fido,ownername=Simpson,pettype=dog,color=yellow
+petname=Fluffy,ownername=Baker,pettype=cat,color=grey
+petname=Mango,ownername=Green,pettype=cat,color=yellow
+petname=Flower,ownername=Cooper,pettype=dog,color=brown
+petname=Shaggy,ownername=Wilson,pettype=dog,color=white
